@@ -1,4 +1,4 @@
-##👋 Hi, I’m **Devansh Jagtap**
+# 👋 Hi, I’m Devansh Jagtap
 
 I’m a **final-year Computer Science student and frontend-focused full-stack developer from India**, interested in building well-structured, real-world web applications.
 
